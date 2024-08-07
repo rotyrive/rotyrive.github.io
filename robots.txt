@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rotyrive.github.io/sitemap.html.gz
+Sitemap: https://rotyrive.github.io/app/sitemap.html.gz
+Sitemap: https://rotyrive.github.io/assets/sitemap.html.gz
+Sitemap: https://rotyrive.github.io/css/sitemap.html.gz
+Sitemap: https://rotyrive.github.io/includes/sitemap.html.gz
+Sitemap: https://rotyrive.github.io/item/sitemap.html.gz
+Sitemap: https://rotyrive.github.io/src/sitemap.html.gz
